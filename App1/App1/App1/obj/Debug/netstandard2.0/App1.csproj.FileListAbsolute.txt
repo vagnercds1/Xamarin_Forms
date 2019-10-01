@@ -1,0 +1,39 @@
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\View\FuncionarioPage.xaml.g.cs
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\vagne\Desktop\Teste\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\View\FuncionarioPage.xaml.g.cs
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DADOS\PROTECNO TECNOLOGIA\FONTES\Xamarin\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\View\FuncionarioPage.xaml.g.cs
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.View.FuncionarioPage">
+
+    <ContentPage.Content>
+
+        <StackLayout Padding="30" HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand">
+            <Entry Text="{Binding Nome}" Placeholder="Nome"></Entry>
+            <Entry Text="{Binding Cargo}" Placeholder="Cargo"></Entry>
+            <Entry Text="{Binding Salario}" Placeholder="Salario"></Entry>
+
+            <Picker Title="Selecione a Moeda" 
+                    ItemsSource="{Binding ListMoedas}"
+                    ItemDisplayBinding="{Binding Value}"
+                    SelectedItem="{Binding SelectedMoeda}" />
+ 
+
+            <Button Text="Gravar" BackgroundColor="Blue" TextColor="White" Command="{Binding GravarCommand}" VerticalOptions="CenterAndExpand"  ></Button>
+            <Button Text="Excluir" BackgroundColor="Red" TextColor="White" Command="{Binding ExcluirCommand}" VerticalOptions="CenterAndExpand" ></Button>
+ 
+            <ListView SelectedItem="{Binding SelectedItem, Mode=TwoWay}" ItemsSource="{Binding ListaFuncionario}" HasUnevenRows="true"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="30*"/>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="20*"/>
+                                    <ColumnDefinition Width="10*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Label Grid.Row="1" Grid.Column="1" Text="{Binding Nome}"  FontSize="20" VerticalOptions="Start" TextColor="Black"/>
+                                <Label Grid.Row="1" Grid.Column="2" Text="{Binding Cargo}"  FontSize="20" VerticalOptions="Start" TextColor="Black"/>
+                                <Label Grid.Row="1" Grid.Column="3" Text="{Binding Salario}"  FontSize="20" VerticalOptions="Start" TextColor="Black"/>
+                                <Label Grid.Row="1" Grid.Column="4" Text="{Binding CodigoMoeda}"  FontSize="20" VerticalOptions="Start" TextColor="Black"/>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

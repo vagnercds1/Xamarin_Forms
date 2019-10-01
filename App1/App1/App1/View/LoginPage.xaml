@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.View.LoginPage">
+ 
+    <ContentPage.Content>
+
+        <StackLayout Padding="30"  HorizontalOptions="FillAndExpand" VerticalOptions="StartAndExpand">
+                
+            <Label Text="Teste de Vagner Correa dos Santos"
+                VerticalOptions="CenterAndExpand" FontSize="Large"  
+                HorizontalOptions="CenterAndExpand" />
+
+            <Label Text="Tela de login criada apenas para executar a navegação por MVVM usando DependenceServices com Injeção de dependencia"
+                VerticalOptions="CenterAndExpand"  FontSize="Medium"
+                HorizontalOptions="CenterAndExpand" />
+
+            <Label Text="A conexão com o banco também utilizou 'Injeção de dependência', para que fosse possivel captura a pasta local de cada plataforma e utiliza-la na camada 'generica' de acesso a dados chamada 'Repository'"
+                VerticalOptions="CenterAndExpand"  FontSize="Medium"
+                HorizontalOptions="CenterAndExpand" />
+
+            <Button Text="Avançar" Command="{Binding LogarCommand}" ></Button>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
