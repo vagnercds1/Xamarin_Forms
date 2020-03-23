@@ -11,15 +11,25 @@
                 VerticalOptions="CenterAndExpand" FontSize="Large"  
                 HorizontalOptions="CenterAndExpand" />
 
-            <Label Text="Tela de login criada apenas para executar a navegação por MVVM usando DependenceServices com Injeção de dependencia"
+            <Label Text="________________________"
+                VerticalOptions="CenterAndExpand" FontSize="Large"  
+                HorizontalOptions="CenterAndExpand" />
+
+            
+            
+            <Label Text="________________________"
+                VerticalOptions="CenterAndExpand" FontSize="Large"  
+                HorizontalOptions="CenterAndExpand" />
+
+            <Label Text="Teste com CRUD básico para cadastro de funcionários e consumo de API sem autenticação, preparado para funcionamento em Android e IOS"
                 VerticalOptions="CenterAndExpand"  FontSize="Medium"
                 HorizontalOptions="CenterAndExpand" />
 
-            <Label Text="A conexão com o banco também utilizou 'Injeção de dependência', para que fosse possivel captura a pasta local de cada plataforma e utiliza-la na camada 'generica' de acesso a dados chamada 'Repository'"
-                VerticalOptions="CenterAndExpand"  FontSize="Medium"
+            <Button Text="CRUD Funcionarios" Command="{Binding LogarCommand}" ></Button>
+          
+            <Label Text="________________________"
+                VerticalOptions="CenterAndExpand" FontSize="Large"  
                 HorizontalOptions="CenterAndExpand" />
-
-            <Button Text="Avançar" Command="{Binding LogarCommand}" ></Button>
 
         </StackLayout>
     </ContentPage.Content>

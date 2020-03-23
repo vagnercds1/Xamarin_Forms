@@ -31,7 +31,6 @@ C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\De
 C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\View\FuncionarioPage.xaml.g.cs
 C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
-C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
 C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
 C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
 C:\DADOS_29-2019\Vagner\Testes Feitos\Xamarin_Forms-master\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
